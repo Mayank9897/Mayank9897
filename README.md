@@ -40,17 +40,6 @@ A full-stack personal finance tracker — track income & expenses by category, v
 
 <br>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mayank9897&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mayank's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mayank9897&theme=dark&hide_border=true" alt="Mayank's GitHub streak" height="165"/>
-
-</div>
-
-<br>
-
 ### 📫 Reach Me
 
 <div align="center">
@@ -59,8 +48,3 @@ A full-stack personal finance tracker — track income & expenses by category, v
 
 </div>
 
-<br>
-
-<div align="center">
-⭐️ Check out my other repositories below
-</div>
