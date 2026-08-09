@@ -105,7 +105,7 @@ The application follows a **modular-monolith architecture** with PostgreSQL as t
 ### 🔗 Links
 
 🌐 **[Live Website](https://stoneveil.in/)**  
-💻 **[GitHub Repository](https://github.com/Dev555-Lux/HIRA)**
+💻 **[GitHub Repository](https://github.com/Dev555-ux/HIRA.git)**
 
 ---
 
