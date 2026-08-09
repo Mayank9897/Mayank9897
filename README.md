@@ -68,9 +68,9 @@ Currently learning the **MERN stack** and exploring **AI/LLM integration**, with
 
 HIRA is an **AI employee platform designed for businesses** that handles customer conversations, appointment scheduling, lead management, and customer follow-ups through WhatsApp.
 
-Rather than functioning as a standalone chatbot, HIRA combines an AI agent with the business's **knowledge base, CRM, calendar, customer history, and conversation memory** into a unified system. :contentReference[oaicite:0]{index=0}
+Rather than functioning as a standalone chatbot, HIRA combines an AI agent with the business's **knowledge base, CRM, calendar, customer history, and conversation memory** into a unified system.
 
-The platform follows a **human-in-the-loop approach**, allowing businesses to review, edit, approve, reject, regenerate, or escalate AI-generated responses before they reach customers. It also supports an autonomous mode for businesses that choose to allow AI actions directly. :contentReference[oaicite:1]{index=1}
+The platform follows a **human-in-the-loop approach**, allowing businesses to review, edit, approve, reject, regenerate, or escalate AI-generated responses before they reach customers. It also supports an autonomous mode for businesses that choose to allow AI actions directly. 
 
 ### ✨ Key Capabilities
 
@@ -100,7 +100,7 @@ The platform follows a **human-in-the-loop approach**, allowing businesses to re
 
 `Groq` · `BGE Embeddings` · `Google Calendar` · `WhatsApp Cloud API` · `Clerk`
 
-The application follows a **modular-monolith architecture** with PostgreSQL as the primary system of record and pgvector for semantic knowledge retrieval. :contentReference[oaicite:2]{index=2}
+The application follows a **modular-monolith architecture** with PostgreSQL as the primary system of record and pgvector for semantic knowledge retrieval. }
 
 ### 🔗 Links
 
@@ -148,15 +148,6 @@ The application allows users to **record income and expenses, organize transacti
 
 ---
 
-# 📈 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Mayank9897&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank9897&layout=compact&theme=transparent&hide_border=true" height="170" />
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p>
@@ -164,12 +155,8 @@ The application allows users to **record income and expenses, organize transacti
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/mayank-dobhal-02966b322">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
