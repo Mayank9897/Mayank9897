@@ -1,50 +1,49 @@
-<div align="center">
-
 # Hi, I'm Mayank 👋
 
 **Full-stack developer building web applications — currently looking for full-stack / web developer opportunities.**
 
-Learning the MERN stack and AI/LLM integration next — more projects coming in a couple of months.
-
-</div>
-
-<br>
+I'm currently learning the MERN stack and exploring AI/LLM integration, with more projects coming soon.
 
 ### 🔧 Tech Stack
 
-<div align="center">
+**Languages:** C · C++ · JavaScript · Python · SQL
 
-![My Skills](https://skillicons.dev/icons?i=js,php,mysql,html,css,tailwind,git,github,vscode)
+**Frontend:** HTML · CSS · JavaScript · React · Tailwind CSS
 
-</div>
+**Backend & Database:** Node.js · Express.js · PHP · MySQL
+
+**Tools:** Git · GitHub · VS Code
 
 **Currently learning:** MongoDB · Express.js · React · Node.js (MERN) · AI/LLM integration
 
-<br>
+---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="100%">
+#### 🤖 [HIRA — AI Chatbot](https://github.com/Dev555-Lux/HIRA)
 
-**[Flo — Finance Tracker](https://github.com/Mayank9897/flo-finance-tracker)**
+**Collaborative full-stack project**
 
-A full-stack personal finance tracker — track income & expenses by category, visualize spending with interactive charts, set monthly budgets, and search transaction history. Built with PHP, MySQL, and vanilla JavaScript, with a custom light/dark theme.
+Contributed to the development of HIRA, an AI-powered chatbot/web application. Worked collaboratively using Git and GitHub, contributing code, features, and improvements to the project.
 
-🔗 [Live Demo](http://flo-tracker.site.je) &nbsp;·&nbsp; [Source Code](https://github.com/Mayank9897/flo-finance-tracker)
+**Tech:** React · Node.js · Express.js · AI/LLM
 
-</td>
-</tr>
-</table>
+🔗 [Repository](https://github.com/Dev555-Lux/HIRA)
 
-<br>
+---
+
+#### 💰 [Flo — Finance Tracker](https://github.com/Mayank9897/flo-finance-tracker)
+
+A full-stack personal finance tracker for managing income and expenses by category, visualizing spending with interactive charts, setting monthly budgets, and searching transaction history.
+
+**Tech:** PHP · MySQL · JavaScript
+
+🔗 [Live Demo](http://flo-tracker.site.je) · [Source Code](https://github.com/Mayank9897/flo-finance-tracker)
+
+---
 
 ### 📫 Reach Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-dobhal-02966b322)
-
-</div>
-
+- 💼 LinkedIn: [Your LinkedIn]
+- 📧 Email: [Your Email]
+- 🐙 GitHub: [@Mayank9897](https://github.com/Mayank9897)
